@@ -1,0 +1,11 @@
+.mainContainer {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+.container {
+    margin: 5px;
+    background-color: rgb(219, 158, 158);
+    padding: 5px 10px;
+}
